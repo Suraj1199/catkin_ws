@@ -1,2 +1,1 @@
-# CRR_JetRacer_Pro
-Importan folder - /jetracer/notebooks  contains ipynb files and trained models
+# Common Workspace Folder for all Jeston Nano
